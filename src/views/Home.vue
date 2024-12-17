@@ -22,9 +22,14 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 La bioética se presenta como una disciplina clave en un mundo cada vez más interconectado. Esta unidad inicial del curso explora los principios fundamentales de la bioética y su relevancia en la toma de decisiones éticas en campos como la salud, la tecnología y la economía. A través del análisis de conceptos como justicia, autonomía, beneficencia y no maleficencia, los estudiantes comprenderán el impacto de la globalización en los dilemas éticos contemporáneos y su relación con la sostenibilidad, la equidad social y los derechos humanos.
+              p.descripcion.mb-4 Desde los inicios de la humanidad, la reflexión ética ha sido un pilar fundamental para enfrentar los conflictos y dilemas que surgen en la convivencia social. En este contexto, la bioética y la globalización destacan como herramientas clave para abordar las complejidades de un mundo interconectado, donde las decisiones económicas, sociales y tecnológicas impactan de manera profunda la dignidad humana y la justicia social.
+                br
+                br
+                |En esta unidad se profundizará en los dilemas éticos asociados con la globalización, examinando temas como la desigualdad social, la responsabilidad corporativa y la equidad en un contexto de cambios acelerados. 
+                br
+                br
+                | #[b ¡Prepárate para enfrentar los retos éticos de la era global con conciencia y responsabilidad!]
 
-              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡Prepárate para reflexionar críticamente sobre los desafíos éticos globales y aplicar soluciones éticas en tu campo profesional!
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")

@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '1',
-    tituloUnidad: 'Fundamentos de la bioética en el contexto global',
+    numeroUnidad: '2',
+    tituloUnidad: 'Dilemas éticos transversales en la globalización',
   },
   menuPrincipal: {
     menu: [
@@ -15,38 +15,41 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Introducción a la bioética en un contexto global',
+        titulo:
+          'Impacto ético de la tecnología en el ámbito laboral y social  ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Principios de la bioética',
+        titulo:
+          'Economía global y su influencia en la equidad y la justicia social    ',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'El principio de autonomía',
+            titulo: 'Distribución desigual de la riqueza en la economía global',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'El principio de beneficencia',
+            titulo: 'Factores que influyen a la desigualdad económica ',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'El principio de no maleficencia',
+            titulo:
+              'El rol de las instituciones gubernamentales en la regulación y justicia económica',
             hash: 't_2_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.4',
-            titulo: 'El principio de justicia',
+            titulo: 'Perspectivas globales, desafíos futuros',
             hash: 't_2_4',
           },
         ],
@@ -56,42 +59,48 @@ export default {
         icono: 'far fa-file-alt',
         numero: '3',
         titulo:
-          'Impacto de la globalización en los dilemas éticos contemporáneos',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
-        numero: '4',
-        titulo:
-          'Bioética y su relación con la sostenibilidad, la equidad social y los derechos humanos',
+          'Responsabilidad Social Corporativa (RSC) y ética en las decisiones empresariales ',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Sostenibilidad',
-            hash: 't_4_1',
+            numero: '3.1',
+            titulo:
+              'Definición y alcance de la Responsabilidad Social Corporativa (RSC)',
+            hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Equidad social',
-            hash: 't_4_2',
+            numero: '3.2',
+            titulo:
+              'Relación de la responsabilidad social corporativa y ética      ',
+            hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Derechos humanos',
-            hash: 't_4_3',
+            numero: '3.3',
+            titulo: 'Ética en las decisiones empresariales     ',
+            hash: 't_3_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.4',
+            titulo: 'Desafíos de la Responsabilidad Social Corporativa ',
+            hash: 't_3_4',
           },
         ],
       },
       {
-        nombreRuta: 'sintesis',
-        titulo: 'Síntesis',
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        titulo: 'SINTESIS',
         desarrolloContenidos: true,
       },
+      // {
+      //   nombreRuta: 'sintesis',
+      //   titulo: 'Síntesis',
+      //   desarrolloContenidos: true,
+      // },
     ],
     subMenu: [
       // {
