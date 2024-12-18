@@ -9,8 +9,8 @@
         .p-4.mb-4(style="background-color: #eaf8fd ")
           p.mb-0 Este tema aborda la definición y el alcance de la RSC, analizando cómo se articula con los valores y objetivos de las organizaciones. A su vez, se expone la relación entre la RSC y la ética, destacando cómo ésta no puede desvincularse de las consideraciones éticas en la toma de decisiones empresariales. 
         p.mb-0 Finalmente, se presentarán los beneficios y desafíos de la RSC, permitiendo una comprensión integral de cómo estas prácticas pueden impactar positivamente, tanto a las empresas como a la sociedad, al tiempo que enfrentan retos en su implementación.
-    #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.1 Definición y alcance de la Responsabilidad Social Corporativa (RSC)
+    #t_3_1.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.1] Definición y alcance de la Responsabilidad Social Corporativa (RSC)
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
         p.mb-0 La Responsabilidad Social Corporativa (RSC) se define como el compromiso que asumen las empresas, de contribuir al desarrollo sostenible, al bienestar social y a la preservación del medio ambiente, integrando estos aspectos en su estrategia y en sus operaciones diarias. Más allá de cumplir con las normativas legales, la RSC implica adoptar un comportamiento ético y transparente, que promueva la competitividad y la cohesión social, al mismo tiempo que busca mejorar el bienestar de las comunidades en las que opera (Rodríguez Jover, 2019). 
@@ -46,25 +46,21 @@
           )
           h4.text-center Objetivo 3
           p.mb-0.text-center Enfrentar de manera activa, los retos sociales actuales, generando valor tanto económico como social.
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-5.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/15.png', alt='')
       .col-lg-7
-        p.mb-0 Un ejemplo de RSC, puede ser el caso de una empresa de alimentos que, además de reducir su huella de carbono mediante el uso de energías renovables en sus plantas, invierte en programas de educación nutricional para las comunidades locales. Este tipo de iniciativa contribuye a la sostenibilidad ambiental y promueve un impacto positivo en la salud y el bienestar de la sociedad.     
-          br
-          br
-          | En cuanto a la normativa y estándares, existen orientaciones para su implementación como la ISO 26000 guía internacional, que proporciona lineamientos sobre la responsabilidad social, ayudando a las organizaciones a comprender e implementar prácticas responsables. Esta norma, aunque no es certificable, establece principios y recomendaciones para que las empresas adopten un enfoque de RSC que incluya temas como gobierno organizacional, derechos humanos, prácticas laborales sanas, medio ambiente y la participación activa en la comunidad. Así, la ISO 26000 facilita que las organizaciones de cualquier tamaño o sector, contribuyan a la sostenibilidad global, integrando la responsabilidad social en todos los aspectos de su gestión y promoviendo un desarrollo equilibrado entre crecimiento económico y bienestar social.
+        p.mb-4 Un ejemplo de RSC, puede ser el caso de una empresa de alimentos que, además de reducir su huella de carbono mediante el uso de energías renovables en sus plantas, invierte en programas de educación nutricional para las comunidades locales. Este tipo de iniciativa contribuye a la sostenibilidad ambiental y promueve un impacto positivo en la salud y el bienestar de la sociedad.     
+        p En cuanto a la normativa y estándares, existen orientaciones para su implementación como la ISO 26000 guía internacional, que proporciona lineamientos sobre la responsabilidad social, ayudando a las organizaciones a comprender e implementar prácticas responsables. Esta norma, aunque no es certificable, establece principios y recomendaciones para que las empresas adopten un enfoque de RSC que incluya temas como gobierno organizacional, derechos humanos, prácticas laborales sanas, medio ambiente y la participación activa en la comunidad. Así, la ISO 26000 facilita que las organizaciones de cualquier tamaño o sector, contribuyan a la sostenibilidad global, integrando la responsabilidad social en todos los aspectos de su gestión y promoviendo un desarrollo equilibrado entre crecimiento económico y bienestar social.
     p.mb-4 La importancia de implementar la Responsabilidad Social Corporativa, obedece a varios aspectos: mejora la reputación de la empresa, fomenta la lealtad del cliente, lo que a largo plazo repercute en la sostenibilidad de esta.
-      br
-      br
-      |Los pilares de la Responsabilidad Social Corporativa, son:
+    p.mb-5 Los pilares de la Responsabilidad Social Corporativa, son:
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 1. 
           span Pilares de la responsabilidad social corporativa.
-        img(src='@/assets/curso/temas/16.svg', alt='')
-    #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.2 Relación de la responsabilidad social corporativa y ética
+        img(src='@/assets/curso/temas/16.svg', alt='').mb-5
+    #t_3_2.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.2] Relación de la responsabilidad social corporativa y ética
     p.mb-4 La Relación entre la Responsabilidad Social Corporativa (RSC) y la ética, es fundamental, dado que la RSC se basa en principios éticos que guían a las organizaciones para actuar de manera responsable y justa, hacia sus diferentes grupos de interés. Esta relación implica una interconexión en la que la ética se convierte en el eje rector de las prácticas de RSC, orientando las decisiones empresariales hacia el bienestar social, la transparencia y la integridad. La ética en la RSC, no solo significa cumplir con la ley, sino que también implica ir más allá de las obligaciones legales, para abordar cuestiones de justicia, equidad y respeto a los derechos humanos. Denotando que la RSC y la ética trabajan de la mano para generar valor a largo plazo, tanto para la empresa como para la sociedad.
     .row.justify-content-center.mb-5
       .col-lg-5.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/17.png', alt='')
@@ -103,17 +99,15 @@
       .col-lg-5.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/21.png', alt='')
       .col-lg-7
         p.mb-4 Sin embargo, la falta de ética en las decisiones empresariales, puede conllevar a consecuencias como crisis de reputación y pérdida de confianza por parte de los consumidores. Estos factores comprometen la imagen de la empresa, y su desempeño financiero. Por otro lado, las empresas que integran la Responsabilidad Social Corporativa (RSC) en sus operaciones, suelen encontrar ventajas competitivas al diferenciarse en un mercado cada vez más consciente de la ética y la sostenibilidad. La adopción de prácticas responsables, permite a estas organizaciones atraer a consumidores que valoran la ética, lo que, a su vez, puede traducirse en lealtad a la marca y un crecimiento sostenido.
-          br
-          br
-          | Además, la implementación de iniciativas de RSC, influye positivamente en la rentabilidad a largo plazo, porque estas buscan minimizar riesgos asociados con litigios y crisis reputacionales, y buscan mejorar su posicionamiento en el mercado y, en consecuencia, experimentar un rendimiento financiero superior.
-    .bg-color-1.p-4(data-aos="fade-left" style="background-color: #eaf8fd").mb-4
+        p.mb-5 Además, la implementación de iniciativas de RSC, influye positivamente en la rentabilidad a largo plazo, porque estas buscan minimizar riesgos asociados con litigios y crisis reputacionales, y buscan mejorar su posicionamiento en el mercado y, en consecuencia, experimentar un rendimiento financiero superior.
+    .bg-color-1.p-4(data-aos="fade-left" style="background-color: #eaf8fd").mb-5
       .row.align-items-center
         .col-lg-auto
           img(src="@/assets/curso/temas/22.svg", style="max-width: 90px").mx-auto
         .col-lg
           p.mb-0 En este sentido, la calidad y los mecanismos de acreditación relacionados con la RSC, son herramientas necesarias para demostrar el compromiso de una organización con prácticas responsables, contribuyendo así a su valor y reputación, ante consumidores y la sociedad en general (Rodríguez Jover, 2019).
-    #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.4 Desafíos de la Responsabilidad Social Corporativa 
+    #t_3_4.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.4] Desafíos de la Responsabilidad Social Corporativa 
     p.mb-4 Para conocer sobre esta temática, lo invitamos a ver el siguiente video:
     .bg-video.bg-full-width.p-5
       figure

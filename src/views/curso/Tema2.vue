@@ -9,8 +9,10 @@
         .p-4.mb-0(style="background-color: #eaf8fd ")
           p.mb-0 Para comprender mejor el tema de la economía global y su influencia en la equidad y la justicia social, esta unidad se ha dividido en subtemas que permiten analizar distintos aspectos y factores que conllevan a la desigualdad económica. Estos subtemas facilitan el estudio detallado de la distribución de la riqueza, las oportunidades y el papel de las instituciones en la regulación económica, tanto en el contexto internacional como en el caso particular de Colombia.
       .col-lg-5.col-7: img(src='@/assets/curso/temas/5.png', alt='')
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.1 Distribución desigual de la riqueza en la economía global
+
+    #t_2_1.titulo-segundo(data-aos="flip-up")
+      h2 #[span 2.1] Distribución desigual de la riqueza en la economía global   
+
     p.mb-4 La distribución desigual de la riqueza es uno de los problemas más visibles y persistentes en la economía global. A medida que la globalización ha facilitado el crecimiento y la expansión de mercados, también ha intensificado las diferencias económicas entre países y dentro de ellos. Los países desarrollados, con economías avanzadas y una fuerte infraestructura industrial y tecnológica, han captado la mayor parte de los beneficios, mientras que, muchos países en desarrollo, han quedado atrás.
     .row.justify-content-center.mb-5
       .col-lg-5.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/6.png', alt='')
@@ -21,8 +23,8 @@
           br
           br
           | Esta realidad plantea importantes desafíos para la justicia social, dado que la falta de equidad en la distribución de la riqueza, limita el acceso a oportunidades y perpetúa ciclos de pobreza y exclusión social, especialmente en comunidades rurales e indígenas.
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.2 Factores que influyen a la desigualdad económica 
+    #t_2_2.titulo-segundo(data-aos="flip-up")
+      h2 #[span 2.2] Factores que influyen a la desigualdad económica 
     p.mb-4 Existen diversas causas que aumentan desigualdad en la distribución de la riqueza en la economía global; algunos de los principales factores estructurales y contextuales que han contribuido, de forma relevante, son:
     .bg-full-width.p-5.mb-5(style="background-color: #e3f3f4 ")
       SlyderA(tipo='b').bg-white
@@ -47,8 +49,8 @@
           .col-lg-5.col-7
             figure
               img(src='@/assets/curso/temas/9.png', alt='Texto que describa la imagen')
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.3 El rol de las instituciones gubernamentales en la regulación y justicia económica
+    #t_2_3.titulo-segundo(data-aos="flip-up")
+      h2 #[span 2.3] El rol de las instituciones gubernamentales en la regulación y justicia económica
     p.mb-4 En la búsqueda para mitigar la desigualdad económica, los gobiernos y organismos internacionales implementan políticas en la distribución de la riqueza y mejora de las condiciones de vida de las poblaciones más vulnerables. A continuación, se destacan algunas de las principales políticas a nivel internacional:
     .bg-full-width(style="background-color:#ededf6 ").p-5.mb-5
       h3.text-center Principales políticas a nivel internacional
@@ -83,8 +85,8 @@
               p Acuerdos y directrices internacionales sobre impuestos a multinacionales 
                 br
                 |Organismos como la OCDE, han promovido acuerdos internacionales para combatir la evasión fiscal y asegurar que las multinacionales paguen impuestos justos en los países donde operan, lo que permite a los gobiernos disponer de más recursos para políticas redistributivas. En el 2021, más de 130 países acordaron implementar un impuesto mínimo global, a las multinacionales, con el fin de reducir la competencia fiscal y redistribuir ingresos (OECD, 2021).
-    #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.4 Perspectivas globales, desafíos futuros
+    #t_2_4.titulo-segundo(data-aos="flip-up")
+      h2 #[span 2.4] Perspectivas globales, desafíos futuros
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
         p.mb-0 Las perspectivas globales para abordar la desigualdad económica, resaltan la necesidad de enfrentar desafíos futuros a través de enfoques innovadores y sostenibles. La comunidad internacional ha identificado factores como la innovación tecnológica, el cambio climático y la cooperación global, como áreas estratégicas. La tecnología, por ejemplo, ofrece posibilidades de inclusión económica a través de la creación de nuevos empleos y el acceso a servicios básicos; sin embargo, también plantea retos, puesto que la automatización puede profundizar la desigualdad, si no se desarrollan políticas para la inclusión laboral y la capacitación continua.

@@ -134,17 +134,29 @@ export default {
   referencias: [
     {
       referencia:
-        'Beauchamp, T. L., & Childress, J. F. (2001). Principles of Biomedical Ethics. Oxford University Press.',
+        'Banco Mundial. (2021). Diagnóstico de pobreza y desigualdad en Colombia.',
     },
     {
       referencia:
-        'Biscioni, D. N., Rocha da Cunha, T., & Albuquerque, A. (2023). Bioética y Derechos Humanos en una mirada latinoamericana. Revista de bioética y derecho, 57, 227–241.',
-      link: 'https://doi.org/10.1344/rbd2022.55.37449',
+        'Bancolombia. (2023). Informe de sostenibilidad. Recuperado de:',
+      link:
+        'https://www.bancolombia.com/acerca-de/informacion-corporativa/historias-que-transforman',
     },
     {
       referencia:
-        'Flores Cuevas, M. D. L. Á. (2016). Concepción teórica metodológica para la educación ética y bioética en la práctica profesional supervisada de la Licenciatura en Bioanálisis: ( ed.). Editorial Universitaria.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/91070',
+        'Departamento Nacional de Planeación (DNP). (2020). Ingreso Solidario en Colombia: Apoyo en tiempos de pandemia. DNP.',
+    },
+    {
+      referencia:
+        'Díaz, A., & Caballero, C. (2020). La estructura fiscal y la desigualdad en Colombia: Retos y perspectivas. Pontificia Universidad Javeriana.',
+    },
+    {
+      referencia:
+        'Echeverri, J. (2019). Desigualdad y crecimiento en Colombia: Un análisis desde la economía política. Banco de la República de Colombia',
+    },
+    {
+      referencia:
+        'Gamboa, J. (2020). El impacto de los acuerdos de libre comercio en la economía colombiana. Universidad de los Andes.',
     },
     {
       referencia:
@@ -157,14 +169,8 @@ export default {
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/41139',
     },
     {
-      referencia:
-        'Gianelly Jacinto Juárez. (2023, December 11). "El Bien Común y Equidad Social" SUSTENTACIÓN DE MONOGRAFÍA BIOÉTICA [Video]. YouTube.',
-      link: 'https://www.youtube.com/watch?v=B_bRoCJyul4',
-    },
-    {
-      referencia:
-        'Martin-Fiorino, V. (2021). Persona y felicidad: aportes desde la educación, la filosofía, la historia, la ética, la política, el derecho y la bioética: ( ed.). Universidad Católica de Colombia.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/197845',
+      referencia: 'Grupo Éxito. (2023). Informe de sostenibilidad.',
+      link: 'https://www.grupoexito.com.co/es/sostenibilidad',
     },
     {
       referencia:
@@ -172,14 +178,11 @@ export default {
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/40950',
     },
     {
-      referencia:
-        'Pérez Toro, J. A. (2016). From Free Trade to Globalization Uncovering the Mist of 21st Century: (1 ed.). Editorial Utadeo.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/220914',
+      referencia: 'OECD. (2021). Revenue Statistics 2021. OECD Publishing',
     },
     {
       referencia:
-        'Pérez, J. (2023). Derechos humanos y bioética en conflictos bélicos. Revista Internacional de Bioética, 12(3), 45-60.',
-      link: 'https://doi.org/10.12345/rib.2023.123456',
+        'ONU. (2019). Informe de los Objetivos de Desarrollo Sostenible 2019. Naciones Unidas.',
     },
     {
       referencia:
@@ -188,72 +191,87 @@ export default {
     },
     {
       referencia:
-        'Rodríguez, M. (2023). Bioética y sostenibilidad: un enfoque integral. Revista de Ética y Sostenibilidad, 5(1), 15-30.',
-      link: 'https://doi.org/10.12345/res.2023.123456',
+        'Prosperidad Social. (2024). Renta Ciudadana en Colombia: Componentes y objetivos.',
+      link: 'https://www.prosperidadsocial.gov.co/',
     },
     {
       referencia:
-        'Silveira Gorski, H. C. & Méndez Baiges, V. (2015). Bioética y derecho: ( ed.). Editorial UOC.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/56380',
+        'Rodríguez Jover, A. (2019). Responsabilidad social corporativa (ed.). IC Editorial.',
+      link:
+        'https://elibro.net/es/creader/tecnologicadeloriente/124246?page=56',
+    },
+    {
+      referencia:
+        'Rodríguez Jover, A. (2019). Responsabilidad social corporativa. ADGG072PO: (ed.). Málaga, España, IC Editorial.',
+      link:
+        'https://elibro.net/es/creader/tecnologicadeloriente/124246?page=13',
+    },
+    {
+      referencia:
+        'Rodríguez Jover, A. (2019). Responsabilidad social corporativa. ADGG072PO: (ed.). Málaga, España, IC Editorial.',
+      link:
+        'https://elibro.net/es/creader/tecnologicadeloriente/124246?page=13',
+    },
+    {
+      referencia:
+        'Sen, A. (1999). Development as freedom. Oxford University Press.',
     },
   ],
   glosario: [
     {
-      termino: 'Autonomía',
+      termino: 'Acceso Digital',
       significado:
-        'capacidad de los sujetos de derecho para establecer reglas de conducta para sí mismos y en sus relaciones con los demás dentro de los límites que la ley señala.',
+        'capacidad de las personas y comunidades para acceder a las tecnologías de la información y la comunicación, lo que incluye la conectividad a Internet y la disponibilidad de dispositivos electrónicos.',
     },
     {
-      termino: 'Beneficencia',
-      significado: 'acción y efecto de hacer el bien a los demás.',
-    },
-    {
-      termino: 'Bioética',
+      termino: 'Automatización',
       significado:
-        'estudio de los problemas éticos originados por la investigación biológica y sus aplicaciones, como en la ingeniería genética o la clonación.',
+        'uso de tecnología para realizar tareas que anteriormente requerían intervención humana.',
     },
     {
-      termino: 'Derechos humanos',
+      termino: 'Desigualdad Social',
       significado:
-        'derechos que, por ser inherentes a la dignidad humana y por resultar necesarios para el libre desarrollo de la personalidad, son normalmente recogidos por las constituciones modernas asignándoles un valor jurídico superior',
+        'desnivel en el acceso a recursos, oportunidades y derechos entre diferentes grupos sociales.',
     },
     {
-      termino: 'Equidad',
+      termino: 'Derechos Humanos',
       significado:
-        'conformidad de algo con otra cosa en naturaleza, forma, calidad o cantidad',
+        'los derechos fundamentales que deben ser garantizados a todas las personas sin discriminación.',
     },
     {
-      termino: 'Ética profesional',
+      termino: 'Economía Global',
       significado:
-        'hace referencia al conjunto de normas y valores que mejoran el desarrollo de las actividades profesionales',
+        'sistema económico que integra mercados, empresas y naciones en un contexto internacional.',
     },
     {
-      termino: 'Globalización',
+      termino: 'Ética Empresarial',
       significado:
-        'creciente integración de las economías de todo el mundo, especialmente a través del comercio y los flujos financieros',
+        'conjunto de principios y normas que guían el comportamiento de las empresas en sus operaciones y decisiones.',
     },
     {
-      termino: 'Justicia',
+      termino: 'Impacto Social',
       significado:
-        'principio moral que lleva a determinar que todos deben vivir honestamente.',
+        'efectos que las decisiones y acciones de individuos o empresas tienen sobre las comunidades y sociedades',
     },
     {
-      termino: 'No maleficencia',
-      significado: 'no hacer daño',
-    },
-    {
-      termino: 'Políticas de salud',
+      termino: 'Responsabilidad Social Corporativa (RSC)',
       significado:
-        'directrices diseñadas por los gobiernos para resolver problemas relacionadas con la salud de las poblaciones',
+        'compromiso de las empresas de actuar de manera ética y contribuir al bienestar social, ambiental y económico.',
     },
     {
-      termino: 'Responsabilidad social',
+      termino: 'Sostenibilidad',
       significado:
-        'compromiso de una organización ante los impactos que sus decisiones y actividades ocasionan en la sociedad y el medioambiente',
+        'capacidad de satisfacer las necesidades actuales sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades.',
     },
     {
-      termino: 'Vulnerabilidad',
-      significado: 'debilidad, fragilidad, inseguridad, flaqueza.',
+      termino: 'Tecnología',
+      significado:
+        'conjunto de herramientas y sistemas que permiten la creación, almacenamiento, intercambio y uso de información.',
+    },
+    {
+      termino: 'Vulnerabilidad Social',
+      significado:
+        'riesgo de que ciertos grupos o individuos enfrenten desventajas económicas, sociales o políticas',
     },
   ],
 }

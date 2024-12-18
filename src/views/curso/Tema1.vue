@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno(:subTitulo="'1. Impacto ético de la tecnología en el ámbito laboral y social     '")
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
+  .container.tarjeta.tarjeta--blanca.px-4.pt-4.px-md-5.pt-md-5.overflow-hidden
     p.mb-4 A lo largo de la evolución de las sociedades, el trabajo ha sido un pilar fundamental en la configuración de las relaciones sociales y en el desarrollo de capacidades individuales y colectivas. Más allá de su función económica, el trabajo es una expresión de dignidad humana y un espacio donde se reflejan los valores y derechos de una sociedad. Sin embargo, en el contexto de la globalización, los modelos productivos han introducido dinámicas complejas que afectan directamente estos valores fundamentales, poniendo a prueba los principios éticos que regulan el ámbito laboral y su impacto en el tejido social. La búsqueda de eficiencia y competitividad, ha generado prácticas que desafían el respeto por los derechos laborales y la cohesión social, requiriendo una reflexión ética profunda sobre las implicaciones de estos cambios.
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
@@ -12,7 +12,7 @@
           br
           |Para abordar estos desafíos, es necesario profundizar las temáticas que se estudiarán a continuación.
       .col-lg-5.col-7: img(src='@/assets/curso/temas/3.png', alt='')
-    .bg-full-width.bg-color-2.mb-lg-5(style="background-color: #f0e9f6")
+    .bg-full-width.bg-color-2(style="background-color: #f0e9f6")
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-5.col-7.mb-lg-0.mb-3
